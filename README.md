@@ -1,1 +1,1 @@
-# Muzix App with MongoDB and Mockito Testcases
+# Muzix App Assignment with MongoDB
